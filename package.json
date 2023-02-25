@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "numpy": "^0.0.1",
+    "yfinance": "^0.0.6"
+  }
+}
